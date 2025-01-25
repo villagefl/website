@@ -1,0 +1,16 @@
+
+        body {
+            background-color: #07492D;
+            color: #fff;
+        }
+        .navbar {
+            background-color: #0A291A;
+            border-bottom: 2px solid #109D60;
+        }
+
+
+        footer {
+            background-color: #0A291A;
+            color: #fff;
+            padding: 4px 0;
+        }
