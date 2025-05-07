@@ -1,4 +1,3 @@
-
         body {
             background-color: #07492D;
             color: #fff;
@@ -14,3 +13,36 @@
             color: #fff;
             padding: 4px 0;
         }
+        .footerbar {
+            text-align: center;
+            background-color: #000;
+            color: #999;
+        }
+        /* Custom list group styles */
+        .list-group.custom-bg .list-group-item {
+          background-color: #0A291A;
+          color: #ffffff; /* Adjust for readability */
+          border-color: #07492D; /* Slightly lighter border for contrast */
+        }
+
+        .list-group.custom-bg .list-group-item:hover,
+        .list-group.custom-bg .list-group-item:focus {
+          background-color: #07492D; /* Slightly lighter shade for hover */
+          color: #e0f7e9; /* Complementary hover text color */
+        }
+
+        .list-group.custom-bg .list-group-item.active {
+          background-color: #0A291A;
+          color: #ffffff;
+          border-color: #07492D;
+        }
+        
+a:link, a:visited {
+  color: #07492D;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: #0A291A;
+  text-decoration: none;
+}
