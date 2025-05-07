@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://villagefl.com/sitemap.xml
